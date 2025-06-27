@@ -7,7 +7,7 @@ I wanted to predict how the population of African elephants might evolve over ti
 
 Below is the forecast I generated using an ARIMA model:
 
-![Forecast Plot](elephant_forecast.png)
+![Forecast Plot](/data/processed/elephant_forecast.png)
 
 As you can see, the result is mostly flat.  
 This is because the data isn't well-suited for forecasting.
@@ -30,11 +30,6 @@ Even if the result wasn't great, the process taught me a lot:
 I believe it's important to share not only successful projects, but also the ones that didn't fully work.  
 This shows the full data science process, including analysis, decision-making, and when to pivot.
 
-## What's Next
-
-I'm starting a new project focused on forecasting air pollution levels in Algiers.  
-This will include forecasting, classification, and user simulation to explore what factors impact pollution levels.
-
 ## Tools Used
 
 - Python
@@ -42,5 +37,4 @@ This will include forecasting, classification, and user simulation to explore wh
 - Statsmodels (ARIMA)
 - Interpolation, resampling, ADF stationarity test
 
-## Project Structure
-
+Thanks for reading <3
