@@ -1,5 +1,3 @@
-<hr style="height: 2px; background-color: #f8bbd0; border: none;">
-
 <h1 style="color: #f8bbd0;">Forecasting African Elephant Population</h1>
 
 This project started as an idea to raise awareness about elephant extinction.  
@@ -38,7 +36,5 @@ This shows the full data science process, including analysis, decision-making, a
 - Pandas, Matplotlib  
 - Statsmodels (ARIMA)  
 - Interpolation, resampling, ADF stationarity test  
-
-<hr style="height: 2px; background-color: #f8bbd0; border: none;">
 
 <h1 style="color: #f8bbd0;">Thanks for reading !!</h1>
