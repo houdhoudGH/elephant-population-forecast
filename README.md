@@ -1,9 +1,9 @@
-# Forecasting African Elephant Population
+<span style="color:pink;"># Forecasting African Elephant Population</span>
 
 This project started as an idea to raise awareness about elephant extinction.  
 I wanted to predict how the population of African elephants might evolve over time using time series forecasting.
 
-## Forecast Plot
+## <span style="color:purple;">Forecast Plot</span>
 
 Below is the forecast I generated using an ARIMA model:
 
@@ -37,4 +37,4 @@ This shows the full data science process, including analysis, decision-making, a
 - Statsmodels (ARIMA)
 - Interpolation, resampling, ADF stationarity test
 
-Thanks for reading <3
+<span style="color:pink;"># Thanks for reading !!</span>
